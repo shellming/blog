@@ -1,0 +1,4 @@
+baseURL = "https://shellming.github.io/"
+languageCode = "en-us"
+title = "Shell Ming"
+theme = "hugo-theme-techdoc"

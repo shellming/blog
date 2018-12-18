@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:shellming/shellming.github.io.git
+	url = https://github.com/shellming/shellming.github.io.git
 	branch = master
 [submodule "themes/simplicity"]
 	path = themes/simplicity

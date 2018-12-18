@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://shellming.github.io"
 defaultContentLanguage = "zh"
 disqusShortname = "test"
 enableEmoji = true
@@ -12,8 +12,8 @@ theme = "simplicity"
 title = "Hello World"
 [author]
   gravatarEmail = "ruluo1992@gmail.com"
-  homepageText = "Shellming"
-  name = "shellming"
+  homepageText = "Shell Ming"
+  name = "Shell Ming"
   rss = "/posts/index.xml"
 [imaging]
   anchor = "smart"
@@ -42,6 +42,6 @@ title = "Hello World"
   licence = "[Some Rights Reserved](http://creativecommons.org/licenses/by-sa/4.0/)."
   displayPostLanguage = true
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:day/"
 [pygmentsOptions]
   linenos = false

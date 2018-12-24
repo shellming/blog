@@ -2,7 +2,7 @@
 title: Spark 常用参数设置
 date: 2018-12-11
 categories: [development]
-tags: [ufs,防火墙,DoS,安全]
+tags: [spark,scala]
 language: zh
 ---
 

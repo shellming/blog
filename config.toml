@@ -42,6 +42,6 @@ title = "Hello World"
   licence = "[Some Rights Reserved](http://creativecommons.org/licenses/by-sa/4.0/)."
   displayPostLanguage = true
 [permalinks]
-  posts = "/:year/:month/:day/"
+  posts = "/:year/:month/:day/:filename"
 [pygmentsOptions]
   linenos = false
